@@ -8,5 +8,5 @@ The contents include theoretical ablations of relevant topics such as:
   - Sentence Similarity
   - Textual Entailment
   - Sentiment Analysis
-- Objective 1: Development of a new method to find similarity of words, and comparison with word2vec, PCA and t-SNE.
+- Assignment 1: Development of a new method to find similarity of words, and comparison with word2vec, PCA, t-SNE and a newly proposed method
 
