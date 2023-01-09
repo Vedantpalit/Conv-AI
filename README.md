@@ -8,5 +8,7 @@ The contents include theoretical ablations of relevant topics such as:
   - Sentence Similarity
   - Textual Entailment
   - Sentiment Analysis
-- Assignment 1: Development of a new method to find similarity of words, and comparison with word2vec, PCA, t-SNE and a newly proposed method
+- Work:
+  -  Developed a new method to find similarity of words, and comparison with word2vec, PCA, t-SNE and a newly proposed novel method.
+  -  Supported in Development of a new transformer architecture as well as in comparison tasks against baseline transformers such as BERT, ELECTRA, roBERTa, XLNet etc
 
